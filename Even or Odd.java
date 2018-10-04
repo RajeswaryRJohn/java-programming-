@@ -1,4 +1,4 @@
-class Main {
+class Even or Odd {
   public static void main(String[] args) {
    int num;
    num=37;
